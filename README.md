@@ -6,8 +6,8 @@ this is an simple chat messaging web application that allow user to connect and 
  Typing indicator: See when other users are typing a message.<br>
  Online user list: View a list of online users in the  chat room.<br>
 # technology used
-Node.js
-Express.js
-Socket.IO
-HTML/CSS
-JavaScript
+Node.js<br>
+Express.js<br>
+Socket.IO<br>
+HTML/CSS<br>
+JavaScript<br>
